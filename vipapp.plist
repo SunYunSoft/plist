@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://jmvipapp.cosmo-lady.com:8888/APP/vipapp.ipa</string>
+					<string>http://jmvipapp.cosmo-lady.com:8888/APP/vipapp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://jmvipapp.cosmo-lady.com:8888/APP/icon/displayimage.png</string>
+					<string>http://jmvipapp.cosmo-lady.com:8888/APP/icon/displayimage.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://jmvipapp.cosmo-lady.com:8888/APP/icon/fullsizeimage.png</string>
+					<string>http://jmvipapp.cosmo-lady.com:8888/APP/icon/fullsizeimage.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
